@@ -6,7 +6,7 @@ session_start();
     <head>
           <meta charset=utf-8>
      
-    <title> registration</title>
+    <title>Schedule</title>
         <link rel="stylesheet" type="text/css" href="style1.css">
          <link rel="stylesheet" type="text/css" href="style2.css">
         <style>
