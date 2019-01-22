@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("aeroplane.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topnav {
+    background-color: brown;
+    overflow: hidden;
+}
+.topnav a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    padding-left: 30px;
+}
+.topnav1 a {
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: blueviolet;
+    color:white;
+}
+.topnav a.active {
+    color: white;
+}
+.marf{
+    color: wheat;
+    font-size: 25px;
+}
+.marq{
+    background-color: indianred;
+}
